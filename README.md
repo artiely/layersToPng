@@ -17,8 +17,6 @@ C:\Program Files\Adobe\Adobe Photoshop CC 2020\Presets\Scripts
 
 如果右键没有包内容就选择服务->文件夹操作设置->运行服务->启用文件夹操作->显示文件夹 找打对应的目录 放入其中
 
-mac的导出文件在文稿中
-
 如果开着ps记得重启
 
 本人ps版本21.1.2
